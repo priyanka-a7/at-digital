@@ -1,4 +1,4 @@
-import Button from "../core/button";
+import Button from "../core/PrimaryButton";
 import { PropTypes } from "prop-types";
 
 const PictureCard = ({ imageUrl, title, text, reverse = false }) => {

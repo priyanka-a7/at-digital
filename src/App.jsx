@@ -1,5 +1,5 @@
 import Navbar from "./components/layouts/Navbar";
-import Button from "./components/core/button";
+import Button from "./components/core/PrimaryButton";
 import Footer from "./components/layouts/Footer";
 import PictureCard from "./components/modules/PictureCard";
 
